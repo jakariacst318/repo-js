@@ -1,0 +1,63 @@
+h2{
+    color: #0902eb;
+    text-decoration:underline wavy red;
+    text-align: center;
+    
+}
+
+p{
+    color: #ff7200;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 40px;
+    background-image: url(/img\ pp.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 1040px;
+    height: 400px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8); ;
+    
+
+}
+.containa{
+    padding-left: 400px;
+    padding-top: 20px; 
+           
+}
+.containa .secent{
+    background-color: #ff7200;
+    width: 300px;
+    box-shadow:0px 8px  darkgrey;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    
+}
+
+.vv.h3{
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+.secent .vv :hover{
+    background-color: rgba(0, 128, 0, 0.765);
+    width: 60px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:1s;
+    
+
+}
+.containa .button:hover{
+    cursor: pointer;
+    background-color: red;
+    width: 10px;
+    border: none;
+    width: 60px;
+    border: none;
+    
+
+}
